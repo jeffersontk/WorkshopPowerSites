@@ -1,0 +1,25 @@
+{
+  "name": "WorkshopPowerSites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersontk/WorkshopPowerSites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersontk/WorkshopPowerSites/issues"
+  },
+  "homepage": "https://github.com/jeffersontk/WorkshopPowerSites#readme",
+  "dependencies": {
+    "gatsby": "^2.19.16",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
